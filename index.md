@@ -66,6 +66,21 @@ Outside of tech, I enjoy learning and teaching Judaism. You can find my lectures
   </a>
 </div>
 
-<!-- Visit counter: replace MYCODE with your GoatCounter code -->
-<script data-goatcounter="https://MYCODE.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
+<!-- Default Statcounter code for Boris Levant Homepage
+https://github.com/borislevant -->
+<script type="text/javascript">
+var sc_project=482494; 
+var sc_invisible=0; 
+var sc_security=""; 
+var scJsHost = "https://";
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="Web Analytics
+Made Easy - Statcounter" href="https://statcounter.com/"
+target="_blank"><img class="statcounter"
+src="https://c.statcounter.com/482494/0//0/" alt="Web
+Analytics Made Easy - Statcounter"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+<!-- End of Statcounter Code -->
